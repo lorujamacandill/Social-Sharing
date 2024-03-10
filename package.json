@@ -1,0 +1,26 @@
+{
+"name": "social-sharingbaimayicongwangz",
+"version": "1.0.0",
+"description": "The project includes social sharing functionality, allowing users to share their experiences and achievements with friends.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/lorujamacandill/Social-Sharing.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "lorujamacandill",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
